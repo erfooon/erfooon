@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="assets/identity.svg" width="100%" alt="erfan shahali — learning and developing" />
+  <img src="workspace/assets/identity.svg" width="100%" alt="erfan shahali — learning and developing" />
 </p>
 
 <table width="100%">
   <tr>
     <td width="62%" valign="top">
-      <img src="assets/about.svg" width="100%" alt="Building in public" />
+      <img src="workspace/assets/about.svg" width="100%" alt="Building in public" />
     </td>
     <td width="38%" valign="top">
       <img src="https://www.gitskins.com/api/section/portrait?username=erfooon&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F85851094%3Fu%3D1cb0802c6f8efa6ef987b119367caf76fadc9099%26v%3D4&color=1&v=showcase-portrait-1" width="100%" alt="erfan shahali animated portrait" />
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/work.svg" width="100%" alt="Featured and selected work" />
+  <img src="workspace/assets/work.svg" width="100%" alt="Featured and selected work" />
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/skills.svg" width="100%" alt="Technologies" />
+  <img src="workspace/assets/skills.svg" width="100%" alt="Technologies" />
 </p>
 
 <p align="center">
@@ -42,5 +42,5 @@
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Let's build something" />
+  <img src="workspace/assets/footer.svg" width="100%" alt="Let's build something" />
 </p>
