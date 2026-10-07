@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="292" viewBox="0 0 860 292" role="img" aria-label="erfan shahali profile cover">
+  <defs>
+    <linearGradient id="id-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="54%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </linearGradient>
+    <radialGradient id="id-orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="id-shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="292" rx="18" fill="url(#id-bg)" stroke="#58a6ff" stroke-opacity="0.35"/>
+  <circle cx="790" cy="36" r="110" fill="url(#id-orb)"/>
+  <rect x="28" y="1.5" width="804" height="2" fill="url(#id-shine)"/>
+  <text x="430" y="58" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" font-weight="700">erfan shahali</text>
+<text x="430" y="92" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400">Learning and developing · ask me about .NET</text>
+<text x="430" y="122" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="600">its Erfoon :\</text>
+<text x="430" y="150" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">Based in tehran · Building at @technomind</text>
+<rect x="28" y="174" width="190" height="58" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="234" y="174" width="190" height="58" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="440" y="174" width="190" height="58" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="646" y="174" width="190" height="58" rx="12" fill="#0d1117" stroke="#30363d"/>
+<text x="123" y="198" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700">4</text>
+<text x="329" y="198" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700">4</text>
+<text x="535" y="198" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700">0</text>
+<text x="741" y="198" text-anchor="middle" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="700">46</text>
+<text x="123" y="218" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Followers</text>
+<text x="329" y="218" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Repositories</text>
+<text x="535" y="218" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Stars</text>
+<text x="741" y="218" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Contributions</text>
+<a href="https://github.com/erfooon" target="_blank"><text x="168" y="268" text-anchor="middle" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">GitHub</text></a>
+<a href="https://technomind.ir/" target="_blank"><text x="318" y="268" text-anchor="middle" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Website</text></a>
+<a href="https://linkedin.com/in/Erfan-Shahali" target="_blank"><text x="478" y="268" text-anchor="middle" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">LinkedIn</text></a>
+<a href="https://instagram.com/_.erfoon" target="_blank"><text x="658" y="268" text-anchor="middle" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Instagram</text></a>
+</svg>
