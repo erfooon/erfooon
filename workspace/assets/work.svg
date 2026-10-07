@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="380" viewBox="0 0 860 380" role="img" aria-label="Featured and selected work">
+  <defs>
+    <linearGradient id="work-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="54%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#010409"/>
+    </linearGradient>
+    <radialGradient id="work-orb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="work-shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="380" rx="18" fill="url(#work-bg)" stroke="#58a6ff" stroke-opacity="0.35"/>
+  <circle cx="790" cy="36" r="110" fill="url(#work-orb)"/>
+  <rect x="28" y="1.5" width="804" height="2" fill="url(#work-shine)"/>
+  <text x="36" y="48" text-anchor="start" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700">Featured work</text>
+<a href="https://github.com/erfooon/erfooon.github.io" target="_blank">
+<rect x="28" y="68" width="804" height="108" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="46" y="104" text-anchor="start" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">erfooon.github.io</text>
+<text x="46" y="132" text-anchor="start" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">Personal site</text>
+<text x="46" y="160" text-anchor="start" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">HTML  ·  0 stars  ·  0 forks  ·  View project</text>
+</a>
+<text x="36" y="214" text-anchor="start" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="700">Selected work</text>
+<a href="https://github.com/erfooon/erfooon.github.io" target="_blank">
+<rect x="28" y="232" width="258" height="120" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="46" y="268" text-anchor="start" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">erfooon.github.io</text>
+<text x="46" y="296" text-anchor="start" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">Personal site</text>
+<text x="46" y="324" text-anchor="start" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">HTML  ·  0 stars</text>
+</a>
+<a href="https://github.com/erfooon/Architectures" target="_blank">
+<rect x="301" y="232" width="258" height="120" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="319" y="268" text-anchor="start" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700">Architectures</text>
+<text x="319" y="296" text-anchor="start" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">Architectures Layouts</text>
+<text x="319" y="324" text-anchor="start" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">Open source  ·  0 stars</text>
+</a>
+<a href="https://github.com/erfooon/SimpleWarehouseManagement" target="_blank">
+<rect x="574" y="232" width="258" height="120" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="592" y="268" text-anchor="start" fill="#e6edf3" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="700">SimpleWarehouseManagement</text>
+<text x="592" y="296" text-anchor="start" fill="#8b949e" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" font-weight="400">Warehouse management</text>
+<text x="592" y="324" text-anchor="start" fill="#58a6ff" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="13" font-weight="400">C#  ·  0 stars</text>
+</a>
+</svg>
